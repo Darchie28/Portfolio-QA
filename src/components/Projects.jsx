@@ -53,7 +53,7 @@ export const Projects = () => {
             }}
             whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
           />
-          <h3> E-commerce Test Automation</h3>
+          <h3>E-commerce Test Automation</h3>
           <p>
             Comprehensive test automation framework for an e-commerce platform using
             Selenium and Python. Includes API testing, UI testing, and CI/CD integration
