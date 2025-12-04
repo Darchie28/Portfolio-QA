@@ -44,7 +44,7 @@ export const Hero = () => {
           </motion.h1>
           <motion.h2 className="hero-subtitle" variants={fadeInUp}>
             {" "}
-            Quality Assurance Specialist
+            Test. Automate. Assure Quality.
           </motion.h2>
           <motion.p className="hero-description" variants={fadeInUp}>
             I ensure software quality through comprehensive testing strategies,
@@ -102,7 +102,7 @@ export const Hero = () => {
               style={vscDarkPlus}
             >
               {`const qaProfile: QAEngineer = {
-  name: "Your Name",
+  name: "Denzel Archie",
   title: "QA Engineer",
   location: "🌍 Remote",
   role: "Quality Assurance Specialist",
