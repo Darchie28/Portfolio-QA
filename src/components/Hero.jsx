@@ -33,7 +33,7 @@ export const Hero = () => {
           animate="animate"
         >
           <motion.div className="hero-badge">
-            <span> 👋 Hello, I&apos;m </span>
+            <span> 👋 Hello, I&apos;m Denzel</span>
           </motion.div>
           <motion.h1
             className="glitch"
@@ -72,14 +72,11 @@ export const Hero = () => {
             </motion.a>
           </motion.div>
           <motion.div className="social-links" variants={staggerContainer}>
-            <motion.a href="https://github.com" target="_blank">
+            <motion.a href="https://github.com/Darchie28" target="_blank">
               <i className="fab fa-github"> </i>
             </motion.a>
-            <motion.a href="https://linkedin.com" target="_blank">
+            <motion.a href="https://www.linkedin.com/in/denzel-archie-728642143/" target="_blank">
               <i className="fab fa-linkedin"> </i>
-            </motion.a>
-            <motion.a href="https://twitter.com" target="_blank">
-              <i className="fab fa-twitter"> </i>
             </motion.a>
           </motion.div>
         </motion.div>
