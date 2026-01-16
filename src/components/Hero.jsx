@@ -40,16 +40,16 @@ export const Hero = () => {
             variants={fadeInUp}
             whileHover={{ scale: 1.02 }}
           >
-            QA Engineer
+            DevOps Engineer
           </motion.h1>
           <motion.h2 className="hero-subtitle" variants={fadeInUp}>
             {" "}
-            Test. Automate. Assure Quality.
+            Build. Deploy. Optimize.
           </motion.h2>
           <motion.p className="hero-description" variants={fadeInUp}>
-            I ensure software quality through comprehensive testing strategies,
-            automation frameworks, and meticulous attention to detail. Specializing
-            in test automation, API testing, and quality assurance best practices.
+            I streamline development workflows through robust CI/CD pipelines,
+            infrastructure automation, and system optimization. Specializing
+            in cloud infrastructure, container orchestration, and infrastructure as code.
           </motion.p>
 
           <motion.div className="cta-buttons" variants={staggerContainer}>
